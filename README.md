@@ -22,6 +22,11 @@ Backend para sistema de gestión de biblioteca desarrollado con Node.js, Express
 ## autores
 -----
 
+## React 
+Taskkill
+<img width="1049" height="991" alt="image" src="https://github.com/user-attachments/assets/49113632-d87b-4f73-8692-a27cc0eba59e" />
+
+
 Backend desarrollado para proyecto de gestión de biblioteca.
 
 ##Licencia
